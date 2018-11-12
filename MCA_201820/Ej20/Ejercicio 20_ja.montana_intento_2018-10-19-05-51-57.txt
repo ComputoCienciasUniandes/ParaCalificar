@@ -1,0 +1,15 @@
+Nombre: Jose Alejandro Montaña Cortes (ja.montana)
+Actividad: Ejercicio 20
+Fecha de envío: viernes 19 de octubre de 2018 05H51' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No alcancé a terminar el ejercicio, me hizo falta casi toda la segunda parte
+
+Archivos:
+	Nombre de archivo original: JoseAlejandro_Montana_Ejercicio20 (1).ipynb
+	Nombre de archivo: Ejercicio 20_ja.montana_intento_2018-10-19-05-51-57_JoseAlejandro_Montana_Ejercicio20 (1).ipynb
+
