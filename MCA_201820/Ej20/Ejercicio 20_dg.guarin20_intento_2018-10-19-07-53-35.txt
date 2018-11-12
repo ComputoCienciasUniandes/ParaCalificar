@@ -1,0 +1,15 @@
+Nombre: David Gustavo Guarin Rojas (dg.guarin20)
+Actividad: Ejercicio 20
+Fecha de envío: viernes 19 de octubre de 2018 07H53' COT
+Calificación actual: Necesita calificación
+
+Campo de envío:
+No hay datos de texto de envío de alumnos para esta actividad.
+
+Comentarios:
+No hay comentarios de alumnos para esta actividad.
+
+Archivos:
+	Nombre de archivo original: DavidGuarin_Ejercicio20.ipynb
+	Nombre de archivo: Ejercicio 20_dg.guarin20_intento_2018-10-19-07-53-35_DavidGuarin_Ejercicio20.ipynb
+
